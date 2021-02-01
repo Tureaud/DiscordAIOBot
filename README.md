@@ -9,6 +9,9 @@ An All-in-One Discord Bot
 </p>
 
 * Play Music
+<p align="center">
+<img src="https://github.com/Tureaud/DiscordAIOBot/blob/main/Image%20Assets/songplaying.JPG"  />
+</p>
   * Pause 
   * Resume
   * Stop
